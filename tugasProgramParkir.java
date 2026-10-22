@@ -32,9 +32,9 @@ public class tugasProgramParkir {
                 }
 
                 if (jenis == 1) {
-                    total = durasi * 1000;
+                    total += durasi * 1000;
                 } else if (jenis == 2) {
-                    total = durasi * 2000;
+                    total += durasi * 2000;
                 }
             } 
 
