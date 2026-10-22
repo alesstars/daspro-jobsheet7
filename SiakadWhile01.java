@@ -7,7 +7,7 @@ public class SiakadWhile01 {
 
         int nilai, jml, i = 0;
 
-        System.out.print("Masukkan jumlah mahassiwa: ");
+        System.out.print("Masukkan jumlah mahasiswa: ");
         jml = sc.nextInt();
 
         while (i < jml) {
